@@ -1,0 +1,12 @@
+service/FoodRest.class
+service/ApplicationConfig.class
+service/StoreRest.class
+DataDto/Store.class
+Data/HibernateUtil.class
+DataDao/IDao.class
+service/PerrosRest.class
+DataDao/DaoStore.class
+DataDao/DaoFood.class
+DataDto/Perros.class
+DataDao/DaoPerros.class
+DataDto/Food.class
